@@ -85,24 +85,6 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
     <td>Testing</td>
     <td align="center" height="108" width="108">
       <img
-        src="https://static-00.iconduck.com/assets.00/cypress-icon-256x256-mza5xipb.png"
-        width="48"
-        height="48"
-        alt="CYPRESS"
-      />
-      <br /><strong>Cypress</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
-        width="48"
-        height="48"
-        alt="STORYBOOK"
-      />
-      <br /><strong>Storybook</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
         width="48"
         height="48"
@@ -136,6 +118,24 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
         alt="RSPEC"
       />
       <br /><strong>RSpec</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        width="48"
+        height="48"
+        alt="STORYBOOK"
+      />
+      <br /><strong>Storybook</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static-00.iconduck.com/assets.00/cypress-icon-256x256-mza5xipb.png"
+        width="48"
+        height="48"
+        alt="CYPRESS"
+      />
+      <br /><strong>Cypress</strong>
     </td>
   </tr>  
     
