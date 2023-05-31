@@ -192,7 +192,7 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
   </tr>
   
    <tr>
-    <td>Version Control etc.</td>
+    <td>Version Control</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
