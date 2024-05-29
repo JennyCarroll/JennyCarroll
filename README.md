@@ -15,7 +15,7 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
 # 📈 Stats:
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennycarroll&langs_count=14&hide=yacc,cmake,scss,ejs,hcl,c,shell&show_icons=true&locale=en&layout=compact" width="50%" alt="jennycarroll"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennycarroll&langs_count=14&hide=shell&show_icons=true&locale=en&layout=compact" width="50%" alt="jennycarroll"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jennycarroll&show_icons=true&locale=en" width="45%" alt="jennycarroll" />  
 </p>
@@ -70,14 +70,14 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+<td align="center" height="108" width="108">
       <img
-        src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667"
+        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
         width="48"
         height="48"
-        alt="PHP"
+        alt="PYTHON"
       />
-      <br /><strong>PHP</strong>
+      <br /><strong>Python</strong>
     </td>
   </tr>
 
