@@ -1,13 +1,9 @@
-<!---
-JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
 <h1 align="center">Jenny Carroll</h1>
 <h2 align="center">Full-Stack Developer</h2>
 
 <br>
 
-- 🌱 I love walking my adorable dog Ariel, gardening and riding my motorcyle
-- 🎓 I am a recent graduate of Lighthouse Labs intensive web development bootcamp and am very excited to embark on my new career path
+- 🌱 I love walking my adorable dog Ariel, gardening and riding my motorcyle and writing clean code
 - 📫 How to reach me: jennygc@telus.net
 
 <br>
@@ -177,9 +173,26 @@ JennyCarroll/JennyCarroll is a ✨ special ✨ repository because its `README.md
       />
       <br /><strong>Rails</strong>
     </td> 
+    <td align="center" height="108" width="108">
+			<img
+        src="https://github.com/pheralb/svgl/blob/main/static/library/fastapi.svg"
+        width="48"
+        height="48"
+				alt="FASTAPI" 
+      />
+			<br /><strong>FastAPI</strong>
+	  </td>
    
   <tr>
     <td>Databases</td>
+    <td align="center" height="108" width="108">
+			<img  
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"        
+        width="48"
+        height="48" 
+        alt="FIREBASE" />
+			<br /><strong>Firebase</strong>
+		</td>
     <td align="center" height="108" width="108">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
