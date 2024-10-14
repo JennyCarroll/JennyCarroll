@@ -11,8 +11,7 @@
 # 📈 Stats:
 
 <p align="left">
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennycarroll&langs_count=14&hide=shell&show_icons=true&locale=en&layout=compact" width="50%" alt="jennycarroll"/> -->
-![Top Languages](stats.svg)  <!-- This will be updated by the workflow -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennycarroll&langs_count=14&hide=shell&show_icons=true&locale=en&layout=compact" width="50%" alt="jennycarroll"/>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=jennycarroll&show_icons=true&locale=en" width="45%" alt="jennycarroll" />   -->
 </p>
