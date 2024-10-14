@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual triggering.
 
 jobs:
-  update-readme:
+  update-readme: # Corrected the job name to include a colon
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,7 +20,7 @@ jobs:
           curl -o stats.svg "https://github-readme-stats.vercel.app/api/top-langs?username=jennycarroll&langs_count=14&hide=shell&show_icons=true&locale=en&layout=compact&token=$GH_TOKEN"
 
           # Update README with the new image link
-          sed -i.bak 's|!\\[Top Languages\\](.*)|![Top Languages](stats.svg)|' README.md
+          sed -i.bak 's|!\[Top Languages\](.*)|![Top Languages](stats.svg)|' README.md
 
       - name: Commit changes
         run: |
