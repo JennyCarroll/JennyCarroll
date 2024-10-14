@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I love walking my adorable dog Ariel, gardening and riding my motorcyle and writing clean code
+- 🌱 I love exploring BC with my adorable dog Ariel, riding my motorcyle and writing clean code
 - 📫 How to reach me: jennygc@telus.net
 
 <br>
